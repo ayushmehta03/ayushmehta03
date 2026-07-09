@@ -39,6 +39,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FF6C37?style=flat&logo=argocd&logoColor=white)
+
 
 ---
 
